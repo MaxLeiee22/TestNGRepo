@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","1","testLogin","Default Suite","Thu Oct 31 11:52:56 SAST 2024","skipped","Thu Oct 31 11:52:56 SAST 2024","test.LoginTest","TestNGRepo","test.LoginTest","testLogin"
 "","1","setUp","Default Suite","Thu Oct 31 11:52:56 SAST 2024","broken","Thu Oct 31 11:52:56 SAST 2024","test.LoginTest","TestNGRepo","test.LoginTest","setUp"
+"","1","testLogin","Default Suite","Thu Oct 31 11:52:56 SAST 2024","skipped","Thu Oct 31 11:52:56 SAST 2024","test.LoginTest","TestNGRepo","test.LoginTest","testLogin"
